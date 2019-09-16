@@ -34,23 +34,3 @@ class NoteSpider:
 if __name__ == "__main__":
     spider = NoteSpider()
     spider.getParsePage()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
